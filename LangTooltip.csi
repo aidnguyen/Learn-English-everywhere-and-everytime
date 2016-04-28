@@ -1,0 +1,16 @@
+[History]
+B0=LanguageToolTip/frmSysTray/Form_MouseMove
+B1=LanguageToolTip/frmMenu/Form_Load
+B2=LanguageToolTip/frmMenu/Label4_MouseMove
+B3=LanguageToolTip/mdlMain/Main
+B4=LanguageToolTip/mdlMain/FileExists
+B5=LanguageToolTip/mdlMain/ReadINI
+B6=LanguageToolTip/frmAbout/imgClose_MouseDown
+B7=LanguageToolTip/frmAbout/cmdClose_Click
+B8=LanguageToolTip/frmAbout/Form_Load
+B9=LanguageToolTip/frmAbout/imgClose_MouseMove
+B10=LanguageToolTip/frmAbout/imgClose_MouseUp
+B11=LanguageToolTip/frmMenu/UniLabel2_Click
+B12=LanguageToolTip/frmMain/DoHide
+B13=LanguageToolTip/frmMain/LoadFilesToCombo
+B14=LanguageToolTip/frmAlertWindow/Form_Load

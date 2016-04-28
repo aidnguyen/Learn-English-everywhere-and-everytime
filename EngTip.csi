@@ -1,0 +1,16 @@
+[History]
+B0=EngTip/frmMain/lstWord_Click
+B1=EngTip/frmMain/imgClose_MouseUp
+B2=EngTip/frmSysTray/mnuSysTray_Click
+B3=EngTip/frmMain/DoHide
+B4=EngTip/frmMain/ClearList
+B5=EngTip/frmMain/Form_Load
+B6=EngTip/frmMain/optRandom_Click
+B7=EngTip/frmMain/cmdAdd_Click
+B8=EngTip/frmSysTray/Form_Load
+B9=EngTip/frmMain/dBase_BeforeSave
+B10=EngTip/frmMain/cmdUpdate_Click
+B11=EngTip/DataBaseDriver/LoadValues
+B12=EngTip/frmMain/cboTime_Click
+B13=EngTip/frmMain/RefreshList
+B14=EngTip/frmMain/cmdDelete_Click
